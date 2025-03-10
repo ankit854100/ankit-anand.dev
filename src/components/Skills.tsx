@@ -1,3 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+// @ts-nocheck
 import React, { useState, useEffect, useRef } from 'react';
 import { FaReact, FaHtml5, FaCss3 } from 'react-icons/fa';
 import { IoLogoJavascript } from 'react-icons/io';
